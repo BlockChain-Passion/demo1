@@ -13,7 +13,7 @@ import (
 )
 
 // this line was created in main file on branch_11 branch.
-// lets c if it merge into main file.
+// lets c if it merge into main file.  This is good
 type Herd struct {
 	XMLName xml.Name `xml:"herd"`
 	Text    string   `xml:",chardata"`
